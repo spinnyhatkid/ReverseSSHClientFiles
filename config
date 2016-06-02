@@ -1,0 +1,5 @@
+User PI
+StrictHostKeyChecking no
+UserKnownHostsFile /dev/null
+CheckHostIP no
+ServerAliveInterval 120
